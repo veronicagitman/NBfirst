@@ -7,7 +7,7 @@ public class TestVeicolo {
         Veicolo veicoli[] = new Veicolo[10];
         //Object tmp;
         int anno = 2010;
-
+        // ciao mondo!!!
         /*
         veicoli.add(new Motoveicolo("BMW","1000","LI123",2000,100,1));
         veicoli.add(new AutoveicoloBenzina("Mercedes","A","PI123",2002,150,4));
